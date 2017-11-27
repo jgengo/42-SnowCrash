@@ -53,3 +53,18 @@ Je me dis que le mot de passe doit etre obfusqué, vu qu'on est au niveau 00 je 
 
 cf le script en 00.rb
 
+```
+11 -->  nottoohardhere
+```
+
+on remarque donc que le ROT11 trouve qqchose qui ressemble bien a de l'anglais :)
+
+```
+level00@SnowCrash:~$ su flag00
+Password:
+Don't forget to launch getflag !
+flag00@SnowCrash:~$ getflag
+Check flag.Here is your token : x24ti5gi3x0ol2eh4esiuxias
+```
+
+
